@@ -6,3 +6,4 @@
   - [PowerShell](cheatsheets/powershell.md)
 
 - About Me
+- [My Resume](myresume/perry_resume.md)
