@@ -6,4 +6,5 @@
   - [PowerShell](cheatsheets/powershell.md)
 
 - About Me
-- [My Resume](myresume/perry_resume.md)
+- [My Resume](aboutme/Perry_Balaba_6292367.md)
+- [My Projects](aboutme/myProjects.md)
