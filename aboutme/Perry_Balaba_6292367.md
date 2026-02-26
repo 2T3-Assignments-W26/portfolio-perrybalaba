@@ -44,3 +44,7 @@ Motivated and hardworking first-year Computer Science Student in John Abbott Col
 | Microsoft Office: Word, Excel, PowerPoint | Following Procedures & Standards |
 
 ### Education
+| Degree | School | Year |
+| ------ | ------ | ---- |
+| DEP | École Secondaire Des Sources | 2024 |
+| | John Abbott College | Current |
